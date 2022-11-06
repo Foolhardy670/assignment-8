@@ -1,3 +1,13 @@
 /* Your styles go here */
 @import url("bootstrap/dist/css/bootstrap.min.css");
 @import url("bootstrap-icons/font/bootstrap-icons.css");
+
+.mystyle{
+    margin-right: 1rem;
+    margin-top: 1rem;
+    margin-left: 1rem;
+}
+
+#featured{
+    margin-bottom: 1rem;
+}
